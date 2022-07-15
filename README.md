@@ -8,3 +8,14 @@ The task of this assignment was to create a simple calendar application that all
 ## Criteria
 
 ![screenshot](/Screen%20Shot%202022-07-14%20at%207.54.01%20PM.png)
+
+## Building Tools
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Bootstrap
+
+## Deployed Application
+
+
